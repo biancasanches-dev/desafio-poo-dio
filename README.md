@@ -17,6 +17,4 @@ O objetivo do desafio é criar um sistema que represente um bootcamp.
 - Git
 - GitHub
 
-<div style="border-top: 2px solid #333; text-align: center; padding-top: 10px;">
-    Feito com ❤️ por <a href="https://www.linkedin.com/in/bianca-sanchesdev/">Bianca</a>
-</div>
+<p align="center">Feito com ❤️ por <a href="https://www.linkedin.com/in/bianca-sanchesdev/">Bianca</a></p> 
