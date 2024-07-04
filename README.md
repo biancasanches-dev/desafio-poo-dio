@@ -1,6 +1,6 @@
 # Desafio POO
 ## Descrição
-Desafio proposto no bootcamp Java da dio para praticar os pilares da OO: Abstração, Encapsulamento, Herança e Polimorfismo.
+Desafio proposto no bootcamp Java da dio para praticar os pilares da OO: Abstração, Encapsulamento, Herança e Polimorfismo disponível em https://github.com/cami-la/desafio-poo-dio.
 
 ## Objetivo
 O objetivo do desafio é criar um sistema que represente um bootcamp.
